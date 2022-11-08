@@ -14,6 +14,7 @@
           "packages/flashlight/*.md",
           "packages/flashlight/index.d.ts",
           "packages/flashlight/index.ios.js",
+          "packages/flashlight/index.android.js",
           "packages/flashlight/common.js",
           "LICENSE",
           {

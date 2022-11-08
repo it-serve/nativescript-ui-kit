@@ -6,7 +6,7 @@ ns plugin add @it-serve/flashlight
 
 ## Usage
 
-// TODO
+// Only workers of IT Company IT Serve for nativescript apps above 8+ core
 
 ## License
 
