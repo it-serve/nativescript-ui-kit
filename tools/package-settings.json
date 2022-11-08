@@ -1,0 +1,16 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/it-serve/nativescript-ui-kit.git"
+  },
+  "keywords": ["NativeScript", "JavaScript", "TypeScript", "iOS", "Android"],
+  "author": {
+    "name": "it-serve",
+    "email": "serfcompany@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/it-serve/nativescript-ui-kit/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/it-serve/nativescript-ui-kit"
+}
