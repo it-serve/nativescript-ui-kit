@@ -1,7 +1,7 @@
 {
   "name": "@it-serve/flashlight",
-  "version": "1.0.11",
-  "description": "Add a plugin description",
+  "version": "1.0.12",
+  "description": "IT SERVE Ukraine development company built flashlight for nativescript core above 8+",
   "main": "index",
   "typings": "index.d.ts",
   "nativescript": {
@@ -19,7 +19,8 @@
     "JavaScript",
     "TypeScript",
     "iOS",
-    "Android"
+    "Android",
+    "flashlight"
   ],
   "author": {
     "name": "it-serve",

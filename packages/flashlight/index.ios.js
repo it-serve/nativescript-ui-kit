@@ -1,10 +1,3 @@
-// import { FlashlightCommon } from './common';
-// export class Flashlight extends FlashlightCommon {
-
-//SHIT
-
-// }
-
 import { flashlight } from './common';
 var device = AVCaptureDevice.defaultDeviceWithMediaType(AVMediaTypeVideo);
 

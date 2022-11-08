@@ -1,8 +1,4 @@
 import { Observable } from '@nativescript/core';
-
-// export class FlashlightCommon extends Observable {
-
-// }
 const flashlight = {
   _on: false,
   toggle: function (arg) {
